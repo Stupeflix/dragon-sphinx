@@ -15,7 +15,7 @@ install_requires = [
 
 setup(name='dragon-sphinx',
     version=version,
-    description="Sphinx extensions for the Dragon tasks system",
+    description="Sphinx extensions for the Stupeflix tasks system",
     long_description=README,
     classifiers=[
       # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
